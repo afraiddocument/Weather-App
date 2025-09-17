@@ -1,2 +1,2 @@
 # Weather-App
-A Weather App I'm developing for use in GEOG
+A Weather App I'm developing for use in my GEOG class
